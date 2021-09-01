@@ -1,13 +1,11 @@
-citHeader("To cite rsofun in publications, please use:")
+citHeader("To cite cwd in publications, please use:")
 
 citEntry(
   entry = "manual",
   author = "Benjamin Stocker",
-  title = "rsofun: a modelling framework that implements the P-model for
-    leaf-level acclimation of photosynthesis",
+  title = "cwd: Cumulative water deficit algorithm",
   year = "2021",
-  textVersion = "Stocker (2021) rsofun: a modelling framework that implements
-  the P-model for leaf-level acclimation of photosynthesis. 
-  https://github.io/stiben/rsofun",
-  url = "https://github.io/stiben/rsofun"
+  textVersion = "Stocker (2021) cwd: Cumulative water deficit algorithm
+  https://doi.org/10.5281/zenodo.5359053",
+  url = "https://doi.org/10.5281/zenodo.5359053"
 )
